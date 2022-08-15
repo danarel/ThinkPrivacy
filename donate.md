@@ -11,3 +11,5 @@ In the hopes of being transparent in the money we bring in and how we spend it, 
 
 **Open Collective:** [https://opencollective.com/thinkprivacy](https://opencollective.com/thinkprivacy){:target="_blank"}
 
+If you're intested in partnerships, you can visit our [Partnership](../partners/) page for more information.
+
