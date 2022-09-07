@@ -51,4 +51,4 @@ When you leave ThinkPrivacy via our links, we cannot vouch for the tracking or c
 
 ***
 
-This policy was created on May 8, 2018 and was last updated on June 28, 2022. If you have any questions feel free to contact me directly here: dan [at] thinkprivacy.ch.
+This policy was created on May 8, 2018 and was last updated on September 7, 2022. If you have any questions feel free to contact me directly here: dan [at] thinkprivacy.ch.
