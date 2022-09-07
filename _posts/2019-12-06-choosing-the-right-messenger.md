@@ -30,7 +30,7 @@ If your goal is to evade more massive state-sponsored surveillance programs, the
 This is because when it comes to these apps, and other like it, you don’t own the [encryption keys](https://ssd.eff.org/en/glossary/encryption-key), the service does, so they are able to decrypt your messages, for their own use, or for the use of government officials who request it. This is something important you’ll want to remember as you choose the messenger that is right for you.
 
 Even Apple’s iMessage, which is encrypted, while more secure than Facebook’s offerings, still control the keys and can access your messages if necessary. Apple does also collect data based on your behavior, so while using iMessage isn’t the same as handing your data over to Facebook, you’re still messaging with a variety of privacy vulnerabilities. On Android, you’re using SMS messages which are even less secure and can be [easily hijacked](https://www.theverge.com/2017/9/18/16328172/sms-two-factor-authentication-hack-password-bitcoin) by someone with just enough know-how.
-
+<div data-ea-publisher="thinkprivacych" data-ea-type="text" class="horizontal"></div>
 # Metadata
 
 One important aspect of messaging apps you need to be sure of is what kind of [metadata](https://ssd.eff.org/en/glossary/metadata) it exposes, what is encrypted and what isn’t.
@@ -62,7 +62,7 @@ When it comes to your goals and threat model, you will need to decide how much, 
 Giving up your phone number or email won’t be a big deal for many, as any good privacy policy will state they won’t use it for any purpose other than those you’ve granted permission for. Yet, for those avoiding state-sponsored surveillance, you may have a regularly changing number, no number, or would rather not risk giving that information up. Same goes for email.
 
 So, you will want to find a service that fits this need. While Signal is currently testing signup without a phone number, currently you’re unable to do so. Riot, Wickr, many [XMPP](https://ssd.eff.org/en/glossary/xmpp) services, don’t require anything but choosing a username.
-
+<div data-ea-publisher="thinkprivacych" data-ea-type="text" class="horizontal"></div>
 # Source Code
 
 Open source may be the most used phrase in all of privacy and security, and for good reason. It’s really helpful to be able to review the source code of the product you’re trusting. Experts can look for backdoors, leaks, and other bugs. Organizations that opt to open source their code are showing good faith effort to increase trust between them and the user.

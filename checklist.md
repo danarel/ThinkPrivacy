@@ -24,4 +24,4 @@ Use this quick guide to help give yourself, friends, or family a few simple tips
 										</div>
 									</div>
 
-							
+<div data-ea-publisher="thinkprivacych" data-ea-type="image" class="horizontal" data-ea-style="stickybox"></div>

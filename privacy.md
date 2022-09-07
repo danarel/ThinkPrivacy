@@ -11,7 +11,34 @@ This website (thinkprivacy.ch) does not use any analytics software. We use no th
 
 ## What we collect
 
-Nothing. We have zero tracking on this site. 
+Nothing. We have zero tracking on this site. We use no analytics, and our ads, as described below are not run through our site and we collect zero information from the ad company. 
+
+## Ads
+
+ThinkPrivacy does utilize non-tracking, non-invasive ads. We run our ads through [Ethical Ads](https://www.ethicalads.io) which have a privacy respecting business model and privacy police.
+
+**What Does Ethical Ads Collect?**
+
+The information we collect about all visitors to our website includes:
+
+* the visitor's browser type
+* language preference
+* referring site
+* the date and time of each visitor request
+
+We collect this information to better understand how our website visitors use EthicalAds, and to monitor and protect the security of the website.
+
+We analyze potentially personally-identifying information like Internet Protocol (IP) addresses although we generally do not store this information. It is used in real-time for geo-targeting advertising and fraud prevention. Logs containing IP addresses are deleted after no more than 10 days.
+
+**What information EthicalAds does not collect**
+
+We do not intentionally collect sensitive personal information, such as personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person's sex life or sexual orientation. If you choose to store any Sensitive Personal Information on our servers, you are responsible for complying with any regulatory controls regarding that data.
+
+For publishers where we make a payment, we may need to collect tax information which may contain social security numbers or other User Personal Information as required by law.
+
+If you're a child under the age of 13, you may not have an account on EthicalAds. EthicalAds does not knowingly collect information from or direct any of our content specifically to children under 13. If we learn or have reason to suspect that you are a user who is under the age of 13, we will unfortunately have to close your account.
+
+Read their full [privacy policy here](https://www.ethicalads.io/privacy-policy/).
 
 ## Affiliate links
 
