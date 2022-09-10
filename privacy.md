@@ -15,7 +15,7 @@ Nothing. We have zero tracking on this site. We use no analytics, and our ads, a
 
 ## Ads
 
-ThinkPrivacy does utilize non-tracking, non-invasive ads. We run our ads through [Ethical Ads](https://www.ethicalads.io) which have a privacy respecting business model and privacy police.
+ThinkPrivacy does utilize non-tracking, non-invasive ads. We run our ads through [Ethical Ads](https://www.ethicalads.io) which have a privacy respecting business model and Privacy Policy. Ads were added in September 2022 as an expirement to continue to fund the site while maintaining user privacy. 
 
 **What Does Ethical Ads Collect?**
 
