@@ -32,7 +32,7 @@ Our focus at System1 has always been on helping people have the best internet ex
 We have strived to market our properties using the most people-friendly ways possible. As data privacy became more important to our users and the internet community in general, we decided to make a large company-wide investment into protecting consumer privacy and security. It is our belief that moving forward, the privacy practices of a product, service and company will be a leading factor in whether people decide to use the offering.
 
 The decision to specifically invest in Startpage was based on its robust privacy policy, impressive tech and unique ability to deliver Google search results. Furthermore, we have absolute faith in the Startpage team to continue to provide the world’s most private search engine. When System1 & Startpage decided to team up, both companies made a commitment to continue and further strengthen Startpage’s privacy components. We are proud that the past 2 years have shown that we have honored that commitment, and that Startpage users have continued to entrust us to maintain our strict privacy standards. 
-<div data-ea-publisher="thinkprivacych" data-ea-type="text" class="horizontal"></div>
+
 **How do you imagine recreating such successful advertising models while respecting consumer privacy?**  
 
 Startpage has been a profitable company since 2006 without storing or sharing any personal information on people using its search engine. Their revenue is generated from contextual ads based on a person’s search term. Meaning if a person searches for “bicycles,” they will see ads from brands who paid for the search term keyword “bicycles,” and NOT based on other personal data. 
@@ -56,7 +56,7 @@ As part of our partnership with Startpage, we took many steps to structure our a
 **What led to the creation of Privacy One Group and how is it different from System1? What does the future of Privacy One Group look like?**  
 
 Privacy One Group is the operational home for our privacy-focused service offerings and applications to serve people, advertisers and other service providers. We are interested in adding to our suite of privacy-focused offerings where we believe we can accelerate that opportunity. 
-<div data-ea-publisher="thinkprivacych" data-ea-type="text" class="horizontal"></div>
+
 **I imagine Startpage is only the beginning. What other privacy investments are being considered?**  
 
 We are spending a lot of time thinking about where privacy is headed and how we can provide a compelling suite of products for people. Last year we acquired the [Waterfox browser](https://www.waterfox.net/), which is known for, among other things, being privacy friendly. We are also working on a private mapping solution in our MapQuest business. We believe a combined offering, which could include VPN and other privacy-related services, would be a very interesting privacy bundle for our users. Stay tuned!
