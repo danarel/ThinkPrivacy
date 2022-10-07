@@ -20,12 +20,12 @@ For us, ethical funding also means we want to make sure that our community knows
 
 Because of this, we will continue to make all financial or other contributions to this site public and will be updated monthly. Partnerships and donations will be listed for one year following the end of partnerships or donations.
 
-## Our Partners (*updated August 2022*)
+## Our Partners (*updated October 2022*)
 
 This section shows what influences the company is exposed to. This includes partnerships, in-kind donations, trainings, and other non-financial contributions to the growth of ThinkPrivacy.
 
 ***
 
-## Our Funding (*updated August 2022*)
+## Our Funding (*updated October 2022*)
 
-Our funding is managed at [Open Collective](https://opencollective.com/thinkprivacy){:target="_blank"} and you can visit our page there to see who is contributing financially to the success of ThinkPrivacy. This diifers from **Our Partners** as partners may be contributing in ways not trackable on Open Collective such as offering free services to us such as hosting, email, etc. 
+We are no longer accepting fundraising as this project has been sunset and will cease operations in the coming months. 
