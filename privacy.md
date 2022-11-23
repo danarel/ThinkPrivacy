@@ -13,10 +13,6 @@ This website (thinkprivacy.ch) does not use any analytics software. We use no th
 
 Nothing. We have zero tracking on this site.s
 
-## Affiliate links
-
-This site uses no affiliate links. We do not make money from the products or services you choose to use.
-
 ## Outside links
 
 When you leave ThinkPrivacy via our links, we cannot vouch for the tracking or cookies used by sites we recommend, however if you use the browser plugins we recommend, you help reduce what they can track. In most cases, they care deeply about privacy as well and don't use invasive tracking software.
@@ -24,4 +20,4 @@ When you leave ThinkPrivacy via our links, we cannot vouch for the tracking or c
 
 ***
 
-This policy was created on May 8, 2018 and was last updated on September 7, 2022. If you have any questions feel free to contact me directly here: dan [at] thinkprivacy.ch.
+This policy was created on May 8, 2018 and was last updated on November 23, 2022. If you have any questions feel free to contact me directly here: dan [at] thinkprivacy.ch.
