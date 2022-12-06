@@ -9,7 +9,6 @@ tags: [Blogs]
 class: post-template
 subclass: 'post tag-blogs'
 author: danarel
-hidden: true
 ---
 
 It has recently come to the attention of the ThinkPrivacy and PrivacyTools teams that Wire, the popular end-to-end encryption messaging platform [had been sold or moved to a US company](https://forum.privacytools.io/t/wire-swiss-gmbh-is-now-owned-by-a-usa-holding-company/1932). After a week of questioning, Wire finally confirmed they had changed holding companies and would now be a US based company in a move they called “simple and pragmatic,” as they worked to expand their foothold in the enterprise market. This also came alongside the news that Wire had accepted more than $8 million in Venture Capital (VC) funding from Morpheus Ventures, as well as other investors.

@@ -9,7 +9,6 @@ tags: [Blogs]
 class: post-template
 subclass: 'post tag-blogs'
 author: danarel
-hidden: true
 ---
 
 When internet privacy is discussed, a lot of people claim they don’t worry about it because they have nothing to hide. There are a few problems with this argument, and I won’t unpack them all here, but some are that “nothing to hide” is subjective to who is watching you. You might not be doing anything illegal, yet, but around the world we’ve seen governments change hands and freedoms vanish overnight. But it also only focuses on government surveillance and forgets that privacy is more than just what the government is interested in. 

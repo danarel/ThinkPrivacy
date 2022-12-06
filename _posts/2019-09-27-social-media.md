@@ -9,6 +9,7 @@ tags: [Service Recommendations]
 class: post-template
 subclass: 'post tag-service-recommendations'
 author: thinkprivacy
+hidden: true
 ---
 
 Social media companies, like other Big Tech organizations want to use your posts to generate income through advertisers. You don't have to turn over your personal information to stay in touch with friends and family.

@@ -9,8 +9,9 @@ tags: [Blogs]
 class: post-template
 subclass: 'post tag-blogs'
 author: danarel
-hidden: true
 ---
+
+**NOTE: As of July 2022, ThinkPrivacy is no longer part of the Powered by Namecheap program.**
 
 ThinkPrivacy is excited to announce we have been accepted into the ["Powered by Namecheap"](https://www.namecheap.com/get-powered-by-namecheap/) program. This program will allow us to grow our site and expand our offerings to the privacy community. 
 

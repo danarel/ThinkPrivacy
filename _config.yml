@@ -26,7 +26,6 @@ subscribers: false # you need to connect an external service for this to work,
 # by editing `_includes/subscribe-form.html`
 twitter: thinkprivacy_ # replace by your username
 facebook: # replace by your username
-mastodon: thinkprivacy #dont include the @ just your username
 
 # Disqus
 disqus: False

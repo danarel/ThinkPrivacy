@@ -9,7 +9,6 @@ tags: [Blogs]
 class: post-template
 subclass: 'post tag-blogs'
 author: danarel
-hidden: true
 ---
 
 While a lot of focus on mobile security and privacy has been placed on activists around the world attending protests, you don’t have to be a social or political activist to care about mobile phone privacy.

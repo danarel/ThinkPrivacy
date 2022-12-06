@@ -9,7 +9,6 @@ tags: [Blogs]
 class: post-template
 subclass: 'post tag-blogs'
 author: danarel
-hidden: true
 ---
 
 When it comes to privacy respecting software and services from search engines, to email, and even VPNs, the discussion focuses heavily on logging, and what the provider stores about you, the user. And rightfully so, however, you’re using Startpage and you already know they don’t log you searches, or IP address, or any other identifying information.

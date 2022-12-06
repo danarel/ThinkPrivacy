@@ -9,7 +9,6 @@ tags: [Blogs]
 class: post-template
 subclass: 'post tag-blogs'
 author: danarel
-hidden: true
 ---
 
 Working in tech, I get a lot of new devices and for anyone who gets a new phone, tablet, or computer, you know they don’t generally come privacy friendly right out of the box, even for those of us who are Linux users.

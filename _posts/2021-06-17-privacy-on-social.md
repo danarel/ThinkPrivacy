@@ -9,7 +9,6 @@ tags: [Blogs]
 class: post-template
 subclass: 'post tag-blogs'
 author: danarel
-hidden: true
 ---
 
 If someone asked me how to be more private on Instagram, you’d probably tell them to delete it. They are owned by Facebook after all, so being private on Facebook is like asking to swim in a lake while in the middle of the Sahara Desert. Sure, it sounds good, but it’s not realistic. 

@@ -9,7 +9,6 @@ tags: [Blogs]
 class: post-template
 subclass: 'post tag-blogs'
 author: danarel
-hidden: true
 ---
 
 As privacy concerns become more mainstream changing search engines is becoming more popular. Yet, changing your search engine may not be as obvious as one may think, especially given that big tech, non-private search engines pay millions of dollars to be the default search engine in most of the most popular browsers.

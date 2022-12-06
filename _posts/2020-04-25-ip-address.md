@@ -9,7 +9,6 @@ tags: [Blogs]
 class: post-template
 subclass: 'post tag-blogs'
 author: danarel
-hidden: true
 ---
 
 Many of us who are privacy minded take many steps to protect our data online. You add tracking blockers to our browsers, you delete our cookies, and you use privacy respecting email addresses and search engines.

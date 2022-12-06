@@ -9,6 +9,7 @@ tags: [Service Recommendations]
 class: post-template
 subclass: 'post tag-service-recommendations'
 author: thinkprivacy
+hidden: true
 ---
 
 Do yourself a favor, never use the same password twice. Even better, you shouldn't even know what your password is. This is where a password manager comes in. You don't have to remember all of your passwords, and if a password is exposed, you only have one to change. 

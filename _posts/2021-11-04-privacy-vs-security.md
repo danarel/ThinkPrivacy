@@ -9,7 +9,6 @@ tags: [Blogs]
 class: post-template
 subclass: 'post tag-blogs'
 author: danarel
-hidden: true
 ---
 
 For many, privacy and security seem to be words that are interchangeable. We hear users discuss how they love a certain product or service because of the security it provides, and just assume that this means they also have the utmost privacy. You can also hear people complain about the lack of privacy, and then imply that this means there is no security.

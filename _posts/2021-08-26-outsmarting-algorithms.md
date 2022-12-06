@@ -9,7 +9,6 @@ tags: [Blogs]
 class: post-template
 subclass: 'post tag-blogs'
 author: danarel
-hidden: true
 ---
 
 One of the biggest challenges we have when thinking about privacy online is that just about every service we use asks for personal information. Banking, car payments, managing your health care account. That doesn’t even scratch the surface when it comes to every other offering we find online from shopping, food delivery, social media, and the list goes on.
