@@ -11,6 +11,7 @@
 <div class="float-left">
       {% if include.encryption %}<span class="emailinfo">Encrypted</span>{% endif %}
       {% if include.domain %}<span class="emailinfo">Custom Domains</span>{% endif %}
+      {% if include.aliases %}<span class="emailinfo">Aliases</span>{% endif %}
       {% if include.storage %}<span class="emailinfo">{{include.storage}} Storage</span>{% endif %}
 </div>
 <div class="float-right">
