@@ -9,7 +9,6 @@ tags: [Service Recommendations]
 class: post-template
 subclass: 'post tag-service-recommendations'
 author: thinkprivacy
-hidden: true
 ---
 
 Sending unecrypted messages can be a privacy and security nightmare. SMS messages can be intercepted by hackers and cybercriminals, and in some countries, governments use text messages to shut down political activists and journalists.

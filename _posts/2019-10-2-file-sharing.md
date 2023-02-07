@@ -9,7 +9,6 @@ tags: [Service Recommendations]
 class: post-template
 subclass: 'post tag-service-recommendations'
 author: thinkprivacy
-hidden: true
 ---
 
 Share files the secure way, with services that not only respect your privacy but offer end-to-end encryption. From tax documents, to files containing personal information that hackers could use to steal your identity, you want to ensure when sending files, they are safe. 
