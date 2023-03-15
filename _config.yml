@@ -15,9 +15,9 @@ cover: assets/images/other.jpg
 logo: assets/images/header_logo.png
 logo_dark: assets/images/header_cover_blue.png
 favicon: assets/images/favicon.ico
-production_url: https://thinkprivacy.ch/
+production_url: https://thinkprivacy.net/
 source_url: https://github.com/think-privacy/ThinkPrivacy
-CNAME: thinkprivacy.ch
+CNAME: thinkprivacy.net
 
 # Social info
 navigation: True # show the navbar links

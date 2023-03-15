@@ -10,5 +10,5 @@ subclass: 'post page'
 
 The best way to contact us is via email.
 
-dan [at] thinkprivacy . ch
+dan [at] thinkprivacy . net
 
