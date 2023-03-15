@@ -24,4 +24,4 @@ This policy was created on May 8, 2018 and was last updated on March 15, 2023. I
 
 ***
 
-<sup>1</sup> On our cloud storage page, we recommend using DigitalOcean for VPS hosting services. This is an affiliate link. DigitalOcean is *not* one of our recommended privacy products, but rather the site we use to host various products. When you sign up, you help cover any bills we have there.
+<sup>1</sup> On our cloud storage page, we recommend using DigitalOcean & Vultr for VPS hosting services. This is an affiliate link. DigitalOcean & Vultr are *not* one of our recommended privacy products, but rather the sites we use to host various products. When you sign up, you help cover any bills we have there.
