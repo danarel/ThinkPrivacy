@@ -8,7 +8,7 @@ subclass: 'post page'
 ---
 In order to bring our customers the best possible services and continue funding our business, we will sometimes seek partnerships. This section will list those partnerships so that our work is always transparent and consumers and organizations can see who we work with and why.
 
-If you're interested in sponsoring ThinkPrivacy, contact dan@thinkprivacy.ch. 
+If you're interested in sponsoring ThinkPrivacy, contact dan@thinkprivacy.net. 
 
 ## Ethical Funding
 
@@ -20,12 +20,12 @@ For us, ethical funding also means we want to make sure that our community knows
 
 Because of this, we will continue to make all financial or other contributions to this site public and will be updated monthly. Partnerships and donations will be listed for one year following the end of partnerships or donations.
 
-## Our Partners (*updated December 2022*)
+## Our Partners (*updated March 2023*)
 
 This section shows what influences the company is exposed to. This includes partnerships, in-kind donations, trainings, and other non-financial contributions to the growth of ThinkPrivacy.
 
 ***
 
-## Our Funding (*updated December 2022*)
+## Our Funding (*updated March 2023*)
 
 We are no longer accepting fundraising as this project has been sunset and will cease operations in the coming months. 
