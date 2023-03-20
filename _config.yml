@@ -25,6 +25,7 @@ subscribers: false # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
 twitter: thinkprivacy_ # replace by your username
+mastodon: thinkprivacy
 facebook: # replace by your username
 
 # Disqus
