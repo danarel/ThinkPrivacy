@@ -20,7 +20,13 @@ You can donate to ThinkPrivacy to help us keep our servers up and cover service 
 ### Cryptocurrency
 
 
-**Monero:** 8AfXNeEKREPPzTYmsr6iPUBzygwuxLGJpFccMRaVgPdDS9hPU8WoXdbHYh25sQHSjYYhM4nK6wqwTYoVLt4XP4GEBM9BRMM
+**Monero:** 
+
+	41uoGhwdnYn9Ef9YePtTWeSo5Mbj6rZ2LHAskiYYNyN65AvDfjTxDKZ7ht6jaubqiJakeh8A8k4fcU21UA9vdrP15x8oZRu
+
+**Bitcoin:** 
+
+	3PAyfSFaK9G368bciXAg8d3XTnZU19UW2g
 
 
 
