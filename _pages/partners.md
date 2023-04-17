@@ -22,9 +22,3 @@ Because of this, we will continue to make all financial or other contributions t
 ## Our Partners (*updated April 2023*)
 
 This section shows what influences the company is exposed to. This includes partnerships, in-kind donations, trainings, and other non-financial contributions to the growth of ThinkPrivacy.
-
-***
-
-## Our Funding (*updated April 2023*)
-
-We are no longer accepting fundraising as this project has been sunset and will cease operations in the coming months. 
