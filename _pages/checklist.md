@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy Checklist
-permalink: /checklist
+permalink: /checklist/index.html
 comments: false
 ---
 

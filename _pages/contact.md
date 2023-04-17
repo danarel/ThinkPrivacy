@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact ThinkPrivacy_
-permalink: /contact
+permalink: /contact/index.html
 comments: false
 ---
 

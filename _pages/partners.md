@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ThinkPrivacy_ Partners
-permalink: /partners
+permalink: /partners/index.html
 comments: false
 ---
 

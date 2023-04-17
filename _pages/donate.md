@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Support ThinkPrivacy_
-permalink: /donate
+permalink: /donate/index.html
 comments: false
 ---
 

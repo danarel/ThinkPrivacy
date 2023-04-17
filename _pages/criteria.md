@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ThinkPrivacy_ Criteria
-permalink: /criteria
+permalink: /criteria/index.html
 comments: false
 ---
 

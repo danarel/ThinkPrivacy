@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About ThinkPrivacy_
-permalink: /about
+permalink: /about/index.html
 comments: false
 ---
 
