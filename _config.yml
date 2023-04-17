@@ -1,7 +1,7 @@
 # Site
 name: "ThinkPrivacy_"
 title: "ThinkPrivacy_"
-description: "It's your data. Keep it.."
+description: "It's your data, take control of it."
 logo: 'assets/images/tp_lock_blog.png'
 favicon: 'assets/images/tp_lock.png'
 baseurl: 
@@ -17,7 +17,7 @@ authors:
     email: dan@thinkprivacy.net
     web: https://www.thinkprivacy.net
     twitter: https://twitter.com/ThinkPrivacy_
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    description: "Owner of ThinkPrivacy_"
  
 # Plugins
 plugins:

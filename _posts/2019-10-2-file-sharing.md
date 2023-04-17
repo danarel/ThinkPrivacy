@@ -1,13 +1,10 @@
 ---
 layout: post
-current: filesharing
-navigation: True
 cover: assets/images/sharing.jpg
 title: File Sharing
 date: 2019-10-2 10:00:00
-categories: [Service Recommendations]
-class: post-template
-subclass: 'post tag-service-recommendations'
+categories: [File Sharing]
+tags: [Sending, File Sharing]
 author: thinkprivacy
 ---
 

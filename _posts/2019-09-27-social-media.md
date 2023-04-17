@@ -1,13 +1,10 @@
 ---
 layout: post
-current: socialmedia
-navigation: True
 cover: assets/images/socialmedia.jpg
 title: Social Media
 date: 2019-09-27 10:00:00
-categories: [Service Recommendations]
-class: post-template
-subclass: 'post tag-service-recommendations'
+categories: [Social Media]
+tags: [Twitter, Facebook, Mastodoon, Instagram]
 author: thinkprivacy
 ---
 

@@ -1,13 +1,10 @@
 ---
 layout: post
-current: password
-navigation: True
 cover: assets/images/password.jpg
 title: Password Managers
 date: 2019-10-5 10:00:00
-categories: [Service Recommendations]
-class: post-template
-subclass: 'post tag-service-recommendations'
+categories: [Passwords]
+tags: [Password Managers, Passwords, Security]
 author: thinkprivacy
 ---
 

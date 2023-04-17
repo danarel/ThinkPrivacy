@@ -1,13 +1,10 @@
 ---
 layout: post
-current: messaging
-navigation: True
 cover: assets/images/messaging.jpg
 title: Messaging
 date: 2019-10-09 10:00:00
-categories: [Service Recommendations]
-class: post-template
-subclass: 'post tag-service-recommendations'
+categories: [Messaging]
+tags: [IM, DM, Real Time Messaging, SMS, MMS]
 author: thinkprivacy
 ---
 

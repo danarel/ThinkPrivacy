@@ -1,13 +1,10 @@
 ---
 layout: post
-current: broswers
-navigation: True
 cover: assets/images/browser.jpg
 title: Web Browsers
 date: 2019-10-09 10:00:00
-categories: [Service Recommendations]
-class: post-template
-subclass: 'post tag-service-recommendations'
+categories: [Web Browsers]
+tags: [Browsers, Mobile, Desktop]
 author: thinkprivacy
 ---
 
