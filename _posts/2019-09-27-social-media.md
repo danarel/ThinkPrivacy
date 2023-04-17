@@ -5,7 +5,7 @@ navigation: True
 cover: assets/images/socialmedia.jpg
 title: Social Media
 date: 2019-09-27 10:00:00
-tags: [Service Recommendations]
+categories: [Service Recommendations]
 class: post-template
 subclass: 'post tag-service-recommendations'
 author: thinkprivacy

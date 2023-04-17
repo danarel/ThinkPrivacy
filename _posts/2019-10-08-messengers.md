@@ -5,7 +5,7 @@ navigation: True
 cover: assets/images/messaging.jpg
 title: Messaging
 date: 2019-10-09 10:00:00
-tags: [Service Recommendations]
+categories: [Service Recommendations]
 class: post-template
 subclass: 'post tag-service-recommendations'
 author: thinkprivacy

@@ -1,105 +1,55 @@
-# Jekyll configuration
-markdown: kramdown
-highlighter: rouge
-paginate: 15 # it will paginate after this number
-language: 'en-uk'
-words_per_minute: 200
-
-# edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /
-
-# Website info
-title: ThinkPrivacy
-description: It's time big tech stop profiting off you.
-cover: assets/images/other.jpg
-logo: assets/images/header_logo.png
-logo_dark: assets/images/header_cover_blue.png
-favicon: assets/images/favicon.ico
-production_url: https://thinkprivacy.net/
-source_url: https://github.com/think-privacy/ThinkPrivacy
-CNAME: thinkprivacy.net
-
-# Social info
-navigation: True # show the navbar links
-subscribers: false # you need to connect an external service for this to work,
-# if 'True' the submit button is disabled for now, but you can change that
-# by editing `_includes/subscribe-form.html`
-twitter: thinkprivacy_ # replace by your username
-mastodon: thinkprivacy
-facebook: # replace by your username
-
-# Disqus
-disqus: False
-disqus_shortname: 
-
-# Google Analytics
-google_analytics: 
-
-# Permalinks
+# Site
+name: "ThinkPrivacy_"
+title: "ThinkPrivacy_"
+description: "It's your data. Keep it.."
+logo: 'assets/images/tp_lock_blog.png'
+favicon: 'assets/images/tp_lock.png'
+baseurl: 
+include: ["_pages"]
 permalink: /:title/
-# permalink: /author/:author
-# permalink: /tag/:tag/
 
-# Authors' info in `_data/authors.yml`
-# Tags' info in `_data/tags_info.yml`
-
-# gems and other configs
-plugins_dir: 
-  - _plugins
-
-plugins: 
+# Authors
+authors:
+  thinkprivacy:
+    name: Dan
+    display_name: Dan Arel
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: dan@thinkprivacy.net
+    web: https://www.thinkprivacy.net
+    twitter: https://twitter.com/ThinkPrivacy_
+    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+ 
+# Plugins
+plugins:
   - jekyll-paginate
+  - jekyll-sitemap
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 20
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
 
-feed:
-  path: feed.xml
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
 
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
 
-# Additional settings available on the front-matter
-# Site logo in the index.html (as in demo.ghost.io)
-# Author's page cover in _layouts/author.html
-# The same for page.html and tag.html layouts
-# Post's page cover as a per-post basis _posts/...
-# Disqus comments as a per-post basis
-# ...
-
-# Settings for builing master branch with travis-ci
-# with jekyll-travis
-
-# Settings for deploy rake task
-# Username and repo of Github repo, e.g.
-# https://github.com/USERNAME/REPO.git
-# username defaults to ENV['GIT_NAME'] used by Travis
-# repo defaults to USERNAME.github.io
-# Branch defaults to "source" for USERNAME.github.io
-# or "master" otherwise
-safe: False
-lsi: False
-username: ThinkPrivacy
-repo: ThinkPrivacy
-branch: master
-relative_source: ../thinkprivacy/
-destination: _site/
-
-include:
-  - _redirects
-
-exclude:
-  - node_modules
-  - vendor
-  - GHOST.txt
-  - gulpfile.js
-  - LICENSE
-  - package.json
-  - Rakefile
-  - README.md
-  - script.py
-  - changelog.md
-  - "*.Rmd"
-  - .git*
-  - _drafts
-  - .bundle
-  - vendor
-  - .sass-cache
-  - .jekyll-cache
-  - build.sh
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
