@@ -1,8 +1,8 @@
 # Site
-name: "ThinkPrivacy_"
+name: "ThinkPrivacy"
 title: "ThinkPrivacy_"
 description: "It's your data, take control of it."
-logo: 'assets/images/tp_lock_blog.png'
+logo: 'assets/images/tp_lock.png'
 favicon: 'assets/images/tp_lock.png'
 baseurl: 
 include: ["_pages"]

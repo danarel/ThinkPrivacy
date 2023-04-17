@@ -78,11 +78,23 @@ ga('send', 'pageview');
                 </li>
 
                   <li class="nav-item">
-                <a class="nav-link" href="{{ site.baseurl }}/checklist">Privacy Checklist</a>
+                <a class="nav-link" href="{{ site.baseurl }}/checklist">Checklist</a>
                 </li>
 
                  <li class="nav-item">
                 <a class="nav-link" href="{{ site.baseurl }}/contact">Contact Us</a>
+                </li>
+
+                 <li class="nav-item">
+                <a class="nav-link" href="https://www.twitter.com/thinkprivacy_"><i class="fa-brands fa-twitter"></i></a>
+                </li>
+
+                 <li class="nav-item">
+                <a class="nav-link" href="https://mstdn.social/@thinkprivacy"><i class="fa-brands fa-mastodon"></i></a>
+                </li>
+
+                <li class="nav-item">
+                <a class="nav-link" href="https://github.com/think-privacy/ThinkPrivacy"><i class="fa-brands fa-github"></i></a>
                 </li>
 
                 {% include search-lunr.html %}
@@ -105,7 +117,7 @@ ga('send', 'pageview');
 <!-- Site Title
 ================================================== -->
 <div class="mainheading">
-    <h1 class="sitetitle"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+    <h1 class="sitetitle"><a href="{{ site.baseurl }}/">{{ site.name }}<span class="blinking-cursor">_</span></a></h1>
     <p class="lead">
         {{ site.description }}
     </p>
@@ -166,11 +178,11 @@ Bottom Alert Bar
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-sm-6 text-center text-lg-left">
-                Copyright © {{ site.time | date: "%Y" }} {{ site.name }} | <a href="{{ site.baseurl }}/privacy">Privacy Policy</a> | <a href="{{ site.baseurl }}/criteria">Criteria</a> | <a href="{{ site.baseurl }}/donate">Donate</a> | <a href="{{ site.baseurl }}/partners">Partners</a>
+                Copyright © {{ site.time | date: "%Y" }} {{ site.name }} | <a href="{{ site.baseurl }}/privacy">Privacy Policy</a> | <a href="{{ site.baseurl }}/partners">Partners</a>
             </div>
 
             <div class="col-md-6 col-sm-6 text-center text-lg-right">    
-                <a target="_blank" href="https://www.wowthemes.net/mediumish-free-jekyll-template/">Mediumish Jekyll Theme</a> by WowThemes.net
+                <a href="https://github.com/think-privacy/ThinkPrivacy"><i class="fa-brands fa-github"></i> Github</a> | <a href="{{ site.baseurl }}/criteria"><i class="fa-solid fa-circle-info"></i> Criteria</a> | <a href="{{ site.baseurl }}/donate"><i class="fa-solid fa-dollar-sign"></i> Donate</a>
             </div>
         </div>
     </div>
