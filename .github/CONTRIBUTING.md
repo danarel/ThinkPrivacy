@@ -24,8 +24,8 @@ We want to give people the best options, not every option. We need to ensure tha
 
 Exceptions can be made if no software is available that meet the criteria in a certain category.
 
-## Writing articles
+## We will not list Brave or their products
 
-Unsolicited articles issues via pull request will not be published. Please email dan@thinkprivacy.net with your article idea or request to re-post an article (that you own the rights of). If we decide to publish your article, you are then free to issue a pull request (or we can do that for you).
+We will not list Brave Browser or Brave Search or any other products produced by the company. Brave's CEO has a history of homophobia, and the company has a history of violating creator relationships and shady business practices. We do not believe Brave is a privacy company and will not support them.
 
 [Code of Conduct]: CODE_OF_CONDUCT.md
