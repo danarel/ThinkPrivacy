@@ -19,6 +19,12 @@ For us, ethical funding also means we want to make sure that our community knows
 
 Because of this, we will continue to make all financial or other contributions to this site public and will be updated monthly. Partnerships and donations will be listed for one year following the end of partnerships or donations.
 
-## Our Partners (*updated April 2023*)
+## Our Partners (*updated May 2023*)
 
 This section shows what influences the company is exposed to. This includes partnerships, in-kind donations, trainings, and other non-financial contributions to the growth of ThinkPrivacy.
+
+**Hosting**
+
+Hosting is provided free of charge by [Vultr](https://www.vultr.com/?ref=9396239). 
+
+<a href="https://www.vultr.com/?ref=9396239" target="_blank"><img src="{{ site.baseurl }}/assets/images/vultr.svg" style="width: 50%;">"
