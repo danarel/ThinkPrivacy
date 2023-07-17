@@ -7,7 +7,7 @@ comments: false
 
 ## Financial Disclosure
 
-We do not make money from recommending certain products, we do not use affiliate links, and we do not provide special consideration to project donors. If you're interested who donates money to this project, please visit our <a href="{{ site.baseurl }}partners/">Partners</a> page.
+We do not make money from recommending certain products, and we do not provide special consideration to project donors. If you're interested who donates money to this project, please visit our <a href="{{ site.baseurl }}partners/">Partners</a> page.
 
 ## General Guidelines
 

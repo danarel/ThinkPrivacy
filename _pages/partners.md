@@ -19,7 +19,7 @@ For us, ethical funding also means we want to make sure that our community knows
 
 Because of this, we will continue to make all financial or other contributions to this site public and will be updated monthly. Partnerships and donations will be listed for one year following the end of partnerships or donations.
 
-## Our Partners (*updated June 2023*)
+## Our Partners (*updated July 2023*)
 
 This section shows what influences the company is exposed to. This includes partnerships, in-kind donations, trainings, and other non-financial contributions to the growth of ThinkPrivacy.
 
